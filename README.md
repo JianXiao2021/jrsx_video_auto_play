@@ -13,4 +13,4 @@
 
 ## 使用
 
-配置好后点击运行 win7 或 win10 文件夹内的 `video_player_start_anew.py`（从头开始播放）或 `video_player_rusume.py`（继续上次进度）开始播放。
+配置好后点击运行 win7 或 win10 文件夹内的 `video_player_start_anew.py`（从头开始播放）或 `video_player_resume.py`（继续上次进度）开始播放。
